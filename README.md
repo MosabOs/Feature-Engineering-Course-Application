@@ -1,4 +1,6 @@
-*Practical Application: Feature Engineering on the “House Prices – Advanced Regression Techniques” Dataset*
+***Practical Application: Feature Engineering on the “House Prices – Advanced Regression Techniques” Dataset***
+
+
 ✅ Overview
 
 This project is a practical exercise as part of a Feature Engineering course on Kaggle, using the dataset from the “House Prices – Advanced Regression Techniques” competition. The goal is to demonstrate the full workflow of data analysis, feature engineering, and predictive modeling — from raw data to final house price predictions.
@@ -48,7 +50,9 @@ ________________________________________________________________________________
 
 
 
-*تطبيق عملي: Feature Engineering على بيانات “House Prices – Advanced Regression Techniques”*
+***تطبيق عملي: Feature Engineering على بيانات “House Prices – Advanced Regression Techniques”***
+
+
 ✅ نظرة عامة
 
 هذا المشروع يمثل تطبيقًا عمليًا ضمن دورة Feature Engineering على Kaggle، باستخدام بيانات المسابقة “House Prices – Advanced Regression Techniques”. يهدف إلى استكشاف خطوات كاملة لتحليل البيانات، هندسة الميزات، والنمذجة التنبؤية، من البيانات الخام إلى التنبؤ بأسعار المنازل.
